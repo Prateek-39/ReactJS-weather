@@ -1,2 +1,2 @@
-Weather App using ReactJS
+Weather App using ReactJS ||
 api : openweathermap.org/api
